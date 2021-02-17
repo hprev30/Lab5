@@ -1,0 +1,8 @@
+Alaska:
+0.000042 km squared
+
+GOM:
+0.000023 km squared
+
+Peru:
+0.000021 km squared
